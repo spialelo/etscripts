@@ -5,3 +5,5 @@ Here are a few that I have created.
 1. monthly_mailings - pulls in either a single article template if there is only one row of data or multiple article template if there is more than one row, in the non-sendable data extension.
 
 2. default_salutation - Pulls in the appropriate saluation if the we have the user's full name, parts of their name, or none at all.
+
+3. conference_ad - Show the AHA Conference ad only to physicians that work in NJ or NY.
